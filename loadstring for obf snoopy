@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bedwaring/leaked-texture-packs/main/obfuscated%20snoopy"), true))()
